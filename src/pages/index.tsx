@@ -1,4 +1,11 @@
-const Main: React.FC = () => {
-	return <p>salut</p>;
+import Header from "../../components/header";
+
+const App: React.FC = () => {
+	return (
+		<>
+			<Header />
+			<h1>Welcome to mastering next js ! </h1>
+		</>
+	);
 };
-export default Main;
+export default App;
