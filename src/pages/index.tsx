@@ -4,7 +4,7 @@ const App: React.FC = () => {
 	return (
 		<>
 			<Header />
-			<h1>Welcome to mastering next js ! </h1>
+			<h1>Welcome to mastering next js this is a test ! </h1>
 		</>
 	);
 };
